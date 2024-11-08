@@ -83,6 +83,10 @@ Advanced interactivity with JavaScript enhancements.
 Deployment to a hosting platform for public access.
 Accessibility improvements to meet global web standards.
 
+Contributing
+==============
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
+
 Contact Information
 =====================
 For inquiries or more details, please contact:
