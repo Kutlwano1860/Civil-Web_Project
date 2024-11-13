@@ -1,1 +1,1 @@
-# Go through the branch for a project
+# Select a branch for a Project
